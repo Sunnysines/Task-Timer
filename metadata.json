@@ -1,0 +1,5 @@
+{
+  "name": "Task-Timer",
+  "description": "A comprehensive productivity suite featuring interval timers with task integration, a standalone to-do list with countdowns, stopwatches, and preset-based single timers.",
+  "requestFramePermissions": []
+}
